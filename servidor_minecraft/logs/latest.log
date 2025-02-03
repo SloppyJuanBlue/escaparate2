@@ -98,3 +98,13 @@
 [03:06:59] [User Authenticator #0/INFO]: UUID of player Jwanxz is a7486279-1c00-380e-a00c-0b58214278c6
 [03:07:00] [Server thread/INFO]: Jwanxz joined the game
 [03:07:00] [Server thread/INFO]: Jwanxz[/127.155.128.49:49195] logged in with entity id 235 at ([world]-203.1632949065088, 63.5625, -197.69864702176588)
+[03:15:01] [Server thread/INFO]: Villager Villager['Villager'/60, uuid='8457271d-d079-42a3-8eae-cc6eeef31f07', l='ServerLevel[world]', x=-218.30, y=63.00, z=-222.30, cpos=[-14, -14], tl=187113, v=true] died, message: 'Villager was slain by Zombie'
+[03:16:36] [Server thread/INFO]: Villager Villager['Weaponsmith'/24, uuid='66dd1c03-3ffa-4dae-bab7-d004755f6a05', l='ServerLevel[world]', x=-211.70, y=63.00, z=-205.78, cpos=[-14, -13], tl=190659, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[03:16:52] [Server thread/INFO]: Villager Villager['Villager'/23, uuid='3c1e0f51-3b5d-42d3-bc1b-5cff3e67188c', l='ServerLevel[world]', x=-211.30, y=63.00, z=-206.50, cpos=[-14, -13], tl=191108, v=true] died, message: 'Villager was slain by Zombie'
+[03:17:35] [Server thread/INFO]: Jwanxz lost connection: Disconnected
+[03:17:35] [Server thread/INFO]: Jwanxz left the game
+[03:18:13] [User Authenticator #1/INFO]: UUID of player Jwanxz is a7486279-1c00-380e-a00c-0b58214278c6
+[03:18:14] [Server thread/INFO]: Jwanxz joined the game
+[03:18:14] [Server thread/INFO]: Jwanxz[/127.155.128.49:49481] logged in with entity id 1354 at ([world]-202.6446393270186, 63.5625, -196.66000357688915)
+[03:18:16] [Server thread/INFO]: Jwanxz lost connection: Disconnected
+[03:18:16] [Server thread/INFO]: Jwanxz left the game
