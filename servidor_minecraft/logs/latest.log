@@ -124,3 +124,51 @@
 [03:34:16] [User Authenticator #3/INFO]: UUID of player Cammxw is 59621141-e202-316f-b977-fbef4aa26984
 [03:34:17] [Server thread/INFO]: Cammxw joined the game
 [03:34:17] [Server thread/INFO]: Cammxw[/127.60.146.81:36207] logged in with entity id 1742 at ([world]-233.93665203429867, 63.0, -201.6266704597984)
+[03:35:44] [Server thread/INFO]: Villager Villager['Weaponsmith'/77, uuid='24723b49-69f7-4d7f-901e-bb47f9430936', l='ServerLevel[world]', x=-192.88, y=63.00, z=-198.36, cpos=[-13, -13], tl=193319, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[03:37:40] [Server thread/INFO]: Jwanxz lost connection: Disconnected
+[03:37:40] [Server thread/INFO]: Jwanxz left the game
+[03:39:32] [Server thread/INFO]: Cammxw lost connection: Disconnected
+[03:39:32] [Server thread/INFO]: Cammxw left the game
+[03:39:32] [Server thread/INFO]: Stopping server
+[03:39:32] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[03:39:32] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:39:32] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[03:39:32] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[03:39:32] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:39:32] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:39:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[03:39:32] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[03:39:32] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:39:32] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:39:32] [Server thread/INFO]: Saving players
+[03:39:32] [WebSocketConnectReadThread-97/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:39:32] [Server thread/INFO]: Saving worlds
+[03:39:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Saved 140 block chunks, 215 entity chunks, 0 poi chunks in world 'world' in 0.32s
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:39:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:39:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:39:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:39:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:39:32] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[03:39:32] [Server thread/INFO]: All I/O tasks to complete
+[03:39:32] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:39:32] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
