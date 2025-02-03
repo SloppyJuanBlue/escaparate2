@@ -1,0 +1,100 @@
+[03:04:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[03:04:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[03:04:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:04:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[03:04:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Geyser-Spigot (2.6.0-SNAPSHOT), SimpleTpa (7.4), SkinsRestorer (15.5.2), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[03:04:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:04:39] [ServerMain/INFO]: Loaded 1337 recipes
+[03:04:39] [ServerMain/INFO]: Loaded 1448 advancements
+[03:04:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:04:39] [Server thread/INFO]: Loading properties
+[03:04:39] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[03:04:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:04:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:04:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:04:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:04:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:04:41] [Server thread/INFO]: Default game type: SURVIVAL
+[03:04:41] [Server thread/INFO]: Generating keypair
+[03:04:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:04:42] [Server thread/INFO]: Using epoll channel type
+[03:04:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:04:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:04:42] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:04:43] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:04:43] [Server thread/INFO]: [floodgate] Took 799ms to boot Floodgate
+[03:04:43] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[03:04:43] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[03:04:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:04:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:04:44] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[03:04:44] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[03:04:44] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:04:44] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:04:44] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[03:04:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:04:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[03:04:45] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:04:45] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[03:04:45] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[03:04:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:04:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:04:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:04:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:04:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:04:46] [Server thread/INFO]: Preparing level "world"
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:04:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:04:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:04:46] [Server thread/INFO]: Preparing spawn area: 0%
+[03:04:47] [Server thread/INFO]: Preparing spawn area: 10%
+[03:04:47] [Server thread/INFO]: Time elapsed: 613 ms
+[03:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:04:47] [Server thread/INFO]: Preparing spawn area: 0%
+[03:04:47] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[03:04:47] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 348.7ms
+[03:04:47] [Server thread/INFO]: Preparing spawn area: 75%
+[03:04:48] [Server thread/INFO]: Time elapsed: 881 ms
+[03:04:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:04:48] [Server thread/INFO]: Preparing spawn area: 0%
+[03:04:48] [Server thread/INFO]: Time elapsed: 98 ms
+[03:04:48] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:04:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[03:04:48] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[03:04:48] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[03:04:48] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[03:04:48] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:04:48] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[03:04:48] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[03:04:49] [Server thread/INFO]: [spark] Starting background profiler...
+[03:04:49] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:04:49] [Server thread/INFO]: [Geyser-Spigot] 
+[03:04:49] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b754 (git-master-ea13e58)
+[03:04:49] [Server thread/INFO]: [Geyser-Spigot] 
+[03:04:49] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:04:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[03:04:52] [Server thread/INFO]: [Geyser-Spigot] Done (3.525s)! Run /geyser help for help!
+[03:04:53] [Server thread/INFO]: Done preparing level "world" (6.908s)
+[03:04:53] [Server thread/INFO]: Running delayed init tasks
+[03:04:53] [Server thread/INFO]: Done (20.901s)! For help, type "help"
+[03:04:53] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:06:15] [User Authenticator #0/INFO]: UUID of player Jwanxz is a7486279-1c00-380e-a00c-0b58214278c6
+[03:06:16] [Server thread/INFO]: Jwanxz joined the game
+[03:06:16] [Server thread/INFO]: Jwanxz[/127.155.128.49:45517] logged in with entity id 16 at ([world]-203.70522791816154, 63.5625, -197.2524110328331)
+[03:06:22] [Server thread/INFO]: Jwanxz lost connection: Disconnected
+[03:06:22] [Server thread/INFO]: Jwanxz left the game
+[03:06:59] [User Authenticator #0/INFO]: UUID of player Jwanxz is a7486279-1c00-380e-a00c-0b58214278c6
+[03:07:00] [Server thread/INFO]: Jwanxz joined the game
+[03:07:00] [Server thread/INFO]: Jwanxz[/127.155.128.49:49195] logged in with entity id 235 at ([world]-203.1632949065088, 63.5625, -197.69864702176588)
